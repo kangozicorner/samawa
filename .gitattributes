@@ -1,2 +1,3 @@
-*.pas linguist-detectable=false
-*.ctpr linguist-detectable=false
+*.pas linguist-language=pascal
+*.ctpr linguist-language=pascal
+*.frm linguist-language=pascal
